@@ -4,6 +4,7 @@ Buzz desktop plugins for the team. Each folder is one plugin: a `manifest.json` 
 
 | Plugin | Folder | What it does |
 |---|---|---|
+| Channel Bookmarks | [`channel-bookmarks/`](channel-bookmarks/) | Shared channel links with compact rows, editing, and drag or keyboard reordering. |
 | Sandbox Link | [`sandbox-link/`](sandbox-link/) | A live link for each channel. It starts a Vercel Sandbox dev server for a branch of any repo that has `scripts/sandbox/link.mjs`, and pins the link above the composer. |
 
 ## Install
